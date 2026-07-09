@@ -1,16 +1,68 @@
-## Hi there 👋
+#  Gustavo Fernandes Doutor
 
-<!--
-**GustavoFDoutor/GustavoFDoutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-End`**
 
-Here are some ideas to get you started:
+Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento back-end com Java e estou sempre buscando aprender novas tecnologias através de projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudo e desenvolvo aplicações utilizando:
+
+• Java
+• Java Swing
+• MySQL
+• JDBC
+• Maven
+• Git
+
+Neste perfil você encontrará projetos desenvolvidos durante meus estudos, com foco em boas práticas de programação, Programação Orientada a Objetos, padrões de projeto e desenvolvimento de aplicações. 
+
+Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
+
+---
+
+### Linguagens e Tecnologias
+
+
+<img    
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img    
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+         
+<img    
+    align="left" 
+    alt="NetBeans"
+    title="NetBeans" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"
+/>
+
+<br/>
+<br/>
+
+---
+
+<p 
+align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoFDoutor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoFDoutor&layout=compact&langs_count=8&theme=tokyonight"
+  />
+</p>
+
