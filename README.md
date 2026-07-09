@@ -54,15 +54,14 @@ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
 
 ---
 
-<p 
-align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoFDoutor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoFDoutor&layout=compact&langs_count=8&theme=tokyonight"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoFDoutor&show_icons=true&theme=tokyonight"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoFDoutor&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
