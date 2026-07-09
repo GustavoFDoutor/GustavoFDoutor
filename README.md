@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento back-end com Java e estou sempre buscando aprender novas tecnologias através de projetos práticos.
+Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento back-end e estou sempre buscando aprender novas tecnologias através de projetos práticos.
 
 Atualmente estudo e desenvolvo aplicações utilizando:
 
